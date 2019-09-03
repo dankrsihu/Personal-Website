@@ -53,8 +53,14 @@ table {
 ul#navbar li{
 	display: inline-block;
 	border: 6px solid #949599;
-  height: 100px;
-  margin: 20px;
-  padding: 20px;
-  width: 10;
+	height: 100px;
+    margin: 20px;
+    padding: 20px;
+    width: 10;
+}
+#photo_of_me{
+
+	max-width: 100%;
+	height: auto;
+
 }
