@@ -50,6 +50,11 @@ table {
 
 /*Syling for front_page.html*/
 
-navbar {
-
+ul#navbar li{
+	display: inline-block;
+	border: 6px solid #949599;
+  height: 100px;
+  margin: 20px;
+  padding: 20px;
+  width: 10;
 }
