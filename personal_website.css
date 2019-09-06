@@ -49,18 +49,46 @@ table {
 
 
 /*Syling for front_page.html*/
-
-ul#navbar li{
-	display: inline-block;
-	border: 6px solid #949599;
+header{
+	width: 100%;
 	height: 100px;
-    margin: 20px;
-    padding: 20px;
-    width: 10;
+}
+.left_header{
+	width: 50%;
+	float: left;
+}
+#navbar{
+	width: 50%;
+	float: right;
+}
+
+#navbar li{
+	display: inline-block;
+    padding: 2px;
+    width: 15%;
+    height: auto;
+
+}
+body{
+	float: none;
 }
 #photo_of_me{
-
-	max-width: 100%;
+	float: left;
+	-ms-transform: rotate(90deg); /* IE 9 */
+	-webkit-transform: rotate(90deg); /* Chrome, Safari, Opera */
+	transform: rotate(90deg);
+	width: 25%;
 	height: auto;
+	padding: 10% 0%;
 
+}
+#bio {
+	float: right;
+}
+#github_link{
+	font-size: 150%;
+	color: black;
+}
+#contact{
+	float: none;
 }
