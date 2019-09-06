@@ -75,7 +75,7 @@ body{
 #photo_of_me{
 	float: left;
 	-ms-transform: rotate(90deg); /* IE 9 */
-	-webkit-transform: rotate(90deg); /* Chrome, Safari, Opera */
+	
 	transform: rotate(90deg);
 	width: 25%;
 	height: auto;
