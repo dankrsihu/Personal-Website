@@ -85,11 +85,12 @@ body{
 	float: left;
 	width: 25%;
 	height: auto;
+	margin: 2%;	
 
 }
 #bio {
 	float: left;
-	padding: 10px 0px;
-	width: 75%;
+	padding: 2% 0%;
+	width: 65%;
 }
 
