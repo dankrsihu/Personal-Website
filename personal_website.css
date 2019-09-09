@@ -81,13 +81,10 @@ body{
 	background-color: #BEEAFF;
 }
 #photo_of_me{
-	-ms-transform: rotate(90deg); /* IE 9 */
-	
-	transform: rotate(90deg);
+	/*transform: rotate(90deg);*/
 	float: left;
 	width: 25%;
 	height: auto;
-	padding: 5% 0%;
 
 }
 #bio {
