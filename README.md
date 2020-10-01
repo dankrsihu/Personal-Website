@@ -1,7 +1,7 @@
 # Personal-Website
 Personal website with information about myself. This is an attempt to teach myself some fundamentals of full stack web development. Here's the goal: 
 
--Main page with fancy visuals that display some stuff about me/my projects etc
+-Main page with awesomw visuals that display some things about me/my projects etc
 
 -A couple side pages to display these things, including contact info, resume, photos
 
